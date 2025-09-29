@@ -1,5 +1,5 @@
 import 'kitchen_service.dart';
-import 'baking.dart'
+import 'baking.dart';
 import 'steaming.dart';
 import 'grilling.dart';
 

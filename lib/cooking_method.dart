@@ -1,4 +1,4 @@
 abstract class CookingMethod {
-  void startCooking();
+  void startCooking(String ingredient);
   void cookingMethod();
 }

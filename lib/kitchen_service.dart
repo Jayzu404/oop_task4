@@ -7,7 +7,7 @@ class KitchenService {
 
   void prepareDish(String mainIngredient){
     print("Chef is preparing the $mainIngredient");
-    _cookingMethod.startCooking();
+    _cookingMethod.startCooking(mainIngredient);
   }
 
   void showCookingMethod(){
